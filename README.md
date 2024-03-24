@@ -1,6 +1,6 @@
 ### Olá, Eu sou Nicolas Pires 👋
 
-- 🔭 HOje trabalho com front-end
+- 🔭 Hoje trabalho com front-end
 - 🌱 Estudando Javascript
 <div style="display: inline_block"><br>
   <img align="center" alt="Nicolas-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
